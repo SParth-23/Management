@@ -88,4 +88,4 @@ A modern **Employee Management System** built using **React.js** that streamline
 For questions or feedback, reach out via:
 
 - **Email**: parthsinghal23.cs@gmail.com
-- **GitHub**: (https://github.com/SParth-23)
+- **GitHub**: https://github.com/SParth-23
